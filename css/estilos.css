@@ -24,6 +24,7 @@ header{
 }   
 nav {
   float: left;
+  width: auto;
 }
 
 nav ul {
